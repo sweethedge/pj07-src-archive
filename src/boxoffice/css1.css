@@ -1,0 +1,23 @@
+* {
+  text-align: center;
+  list-style: none;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0c060b;
+  color: #fffff0;
+}
+li {
+  height: 35px;
+  border-bottom: 1px solid;
+  
+}
+.span1 {
+  margin-right: 25px;
+}
+a {
+  text-decoration: none;
+}
